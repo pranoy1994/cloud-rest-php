@@ -1,0 +1,489 @@
+@font-face {
+    font-family: "QS";
+    src: url("/fonts/Quite Something DEMO.otf");
+}
+
+@font-face{
+    font-family: "BTM";
+    src: url("/fonts/beyond_the_mountains.ttf");
+}
+body {
+    padding-top: 2%;
+}
+.headerButton {
+    height: 39px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border: solid 2px #4c9142;
+    color: #4c9142;
+    font-weight: 900;
+    margin-left: 17px;
+    font-size: 17px;
+    padding:7px;
+    cursor: pointer;
+    font-family: Lato;
+}
+
+.header-btn-grp {
+    margin-top: 2%;
+    margin-right: 2%;
+}
+
+#btn-menu {
+    display: none;
+}
+@media screen and (max-width: 1100px) {
+    #btn{
+        display: none;
+    }
+    #btn-menu {
+        display: block;
+    }
+}
+
+
+
+/* 
+@media (max-width: 1098px) {
+    .header-btn-grp {
+        margin-top:4%;
+        margin-left: 33%;
+    }
+}
+
+@media (max-width: 1063px) {
+    .header-btn-grp {
+        margin-top:4%;
+        margin-left: 25%;
+    }
+} */
+
+.inside-image {
+    position: absolute;
+    margin-left: -38%;
+    height: 41%;
+    margin-top: 34%;
+    /* width: 20%; */
+    height: 25%
+}
+.text {
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 57px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #231f20;
+    margin-top: 72%;
+}
+.text-2 {
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 10%;
+}
+.heading {
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #000000;
+    padding-left: 10%;
+}
+.heading-body {
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #000000;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.step-image {
+    width: 90%
+}
+
+.contact-header {
+    object-fit: contain;
+    font-family: QS;
+    font-size: 72px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #231f20;
+}
+
+.inside-header {
+    object-fit: contain;
+    font-family: QS;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #231f20;
+    padding-left: 27%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 5%
+}
+
+.container-item {
+    width: 475px;
+    height: 631px;
+    object-fit: contain;
+    border-radius: 40px;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    border: solid 1px #999999;
+    margin-left:12%;
+}
+
+.disclamer-content p{
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #000000;
+   
+}
+ol {
+    font-size: 24px;
+    font-family: QS;
+}
+
+.inputboxes {
+    width: 290px;
+    height: 23px;
+    object-fit: contain;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border: solid 2px grey;
+    border-style: dotted;
+    margin-bottom: 5%;
+    padding: 3%;
+    font-family: Lato;
+    font-size: 15px;
+}
+
+.inputboxes:focus {
+    outline-width: 0;
+}
+
+.inputboxes-sub {
+    width: 320px;
+    height: 56px;
+    border-radius: 5px;
+    background-color: #4c9142;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    border-color: #4c9142;
+    border-style: solid;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color:#cececeb8;
+    opacity: 1; /* Firefox */
+    font-style: italic
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #cececeb8;
+    font-style: italic;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #cececeb8;
+    font-style: italic
+}
+
+.img {
+    width: 800px;
+    height: 640px;
+    object-fit: contain;
+
+}
+
+.container-header {
+    width: 263px;
+    height: 36px;
+    object-fit: contain;
+    font-family: QS;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #000000;
+    margin-top: 10%;
+}
+
+.container-text {
+    width: 407px;
+    height: 468px;
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #000000;
+    text-align: left;
+    margin-left: 5%;
+}
+
+.list-items {
+    margin-top: 5%;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #000000;
+    padding-left: 7%;
+    padding-right: 10%;
+}
+
+.member-description { 
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #000000;
+    margin-top: 3%
+}
+
+.index-5 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+
+.index-5-section {
+    width: 322.7px;
+    height: 443px;
+    object-fit: contain;
+    border-radius: 8px;
+    background-color: #fbfbfb;
+    text-align: center;
+}
+
+.index-5-section  > img {
+
+    width: 40%;
+    margin-top: 10%
+}
+
+.index-5-section > p {
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #231f20;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.index-5-section > p > span {
+    font-weight: 900;
+}
+
+
+.index-5-section > button {
+    height: 39px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border: solid 2px #4c9142;
+    color: #4c9142;
+    font-weight: 900;
+    margin-left: 17px;
+    font-size: 17px;
+    padding: 7px;
+    cursor: pointer;
+    font-family: Lato;
+}
+
+.buy-help {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.col {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10%;
+}
+.col > div {
+    object-fit: contain;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #231f20;
+    padding-left: 5%;
+    /* text-align:center */
+}
+.col > div > span {
+    font-weight: bold;
+}
+.col> div > img {
+    width: 92%;
+    padding-top: 45%;
+}
+
+#rent {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 1%;
+
+}
+
+#rent > p:nth-child(1) {
+    object-fit: contain;
+    font-family: QS;
+    font-size: 72px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4c9142;
+}
+
+#rent > p:nth-child(2) {
+    object-fit: contain;
+    font-family: BTM;
+    font-size: 108px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4c9142;
+    margin-top: -3%;
+}
+
+#rent > p:nth-child(3) {
+    object-fit: contain;
+    font-family: QS;
+    font-size: 72px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4c9142;
+    margin-top: -11%;
+}
+
+
+
+
+
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #111; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+    font-family: Lato;
+    text-align: center;
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
