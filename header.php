@@ -1,5 +1,9 @@
-
-<div style="text-align:left;background-color: #ffffff;display:  grid;grid-template-columns: auto auto;" >
+<div id="preheader">
+  <p>
+    If urgent queries, call us now on +91 9741990113
+  </p>
+</div>
+<div style="text-align:left;background-color: #ffffff;display:  grid;grid-template-columns: auto auto;margin-top: 2%;margin-left: 38px;margin-right: 38px;" >
     <a href="/"><img  style="margin-left:4%;margin-top:2%" src="images/CludRestHomeLogo.svg" /></a>
     <div id="btn" class="header-btn-grp" style="text-align:right">
         <button class="headerButton" id="schoolName" onclick="location.href='/buy.php'">BUY </button>

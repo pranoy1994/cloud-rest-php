@@ -8,8 +8,9 @@
     </head>
 
 
-    <body style="padding-left: 4%;padding-right: 4%;">
+    <body>
         <?php include 'header.php' ?>
+      <div class="body">
         <div style="text-align: center;margin-top: 10%">
             <p class="contact-header">Too many questions in your mind?</p>
         </div>
@@ -82,6 +83,11 @@
         <div style="text-align:center">
             <img src="/images/group-5@3x.png" style="padding-bottom: 5%;padding-top: 10%;width: 18%">
         </div>
-
+      </div>
+  <div id="footer">
+    <p>
+      Copyright (c) 2018 — Grey Box Technologies Pvt Ltd   |   All Rights Reserved
+    </p>
+  </div>
     </body>
 </html>

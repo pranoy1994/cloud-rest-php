@@ -3,34 +3,35 @@
 <head>
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet">
-        <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
         <link href='/stylesheets/index.css' rel='stylesheet' type='text/css'>
 </head>
 
 
-<body style="padding-left: 4%;padding-right: 4%;">
+<body>
 
       <?php include 'header.php' ?>
-
-    <p class="text" style="margin-top:10%">
-        We provide affordable massage therapy
-    </p>
-    
-    <div>
-        <img src="/images/1-artboard-9-4-x-02@2x.png" style="width:100%;margin-top:5%">
-    </div>
-    
+<div class="body">
+  
     <p class="text" style="margin-top:10%">
         Delivering affordable massage therapy
-        <p class="contact-header" style="margin-top: -3%;font-size: 700%;">everywhere</p>
+        <p class="contact-header" style="margin-top: -5%;font-size: 580%;">everywhere</p>
     </p>
+  
+    <div>
+        <img src="/images/1-artboard-9-4-x-02@2x.png" style="width:100%;margin-top:0%">
+    </div>
+    
+
 
     <p class="text-2" style="padding-right: 15%;padding-left: 15%;">
-        Everywhere? Yes, trust us — we’re everywhere!
+        We deploy smart massage machines such as Portable Back Massagers, Leg Massagers, & Full-Body Massagers — embedded with our Patented IoT Technology — in places with high footfalls like Malls & Airports (and more).
         <br><br>
-        We deploy smart massagers such as Full-Body Massagers, Leg Massagers, and Portable Back Massagers — embedded with our Patented IoT Technology — in places with high footfalls. 
+        Anyone (including You!) can use these smart massage machines for a quick & affordable massage therapy.
         <br><br>
-        People can benefit from this affordable massage therapy on the move & our technology opens up an opportunity for individuals to Invest as well.
+        You can also invest on these smart massage machines and earn fixed monthly rent.
+
+
     </p>
 
     <div class="index-5">
@@ -67,8 +68,13 @@
 
 
     <div style="text-align:center">
-        <img src="/images/group-5@3x.png" style="padding-bottom: 5%;padding-top: 10%;width: 18%">
+        <img src="/images/group-5@3x.png" style="padding-bottom: 5%;padding-top: 10%;width: 21%">
     </div>
-
+  </div>
+  <div id="footer">
+    <p>
+      Copyright (c) 2018 — Grey Box Technologies Pvt Ltd   |   All Rights Reserved
+    </p>
+  </div>
 </body>
 </html>

@@ -6,9 +6,10 @@
         <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
         <link href='/stylesheets/index.css' rel='stylesheet' type='text/css'>
 </head>
-<body style="padding-left: 4%;padding-right: 4%;">
+<body>
 
     <?php include 'header.php' ?>
+  <div class="body">
     <div id="invest-page-banner" style="text-align: center">
         <img src="/images/everyone-everywhere@3x.png" style="width:80%;margin-top:10%"/>
     </div>
@@ -99,5 +100,12 @@
     <div style="text-align:center">
        <img src="/images/group-5@3x.png" style="padding-bottom: 5%;padding-top: 10%;width: 18%">
     </div>
+  </div>
+  
+    <div id="footer">
+    <p>
+      Copyright (c) 2018 — Grey Box Technologies Pvt Ltd   |   All Rights Reserved
+    </p>
+  </div>
 </body>
 </html>

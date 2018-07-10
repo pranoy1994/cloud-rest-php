@@ -8,20 +8,21 @@
     </head>
 
 
-    <body style="padding-left: 4%;padding-right: 4%;">
+    <body>
         <?php include 'header.php' ?>
+      <div class="body">
         <div style="text-align: center;margin-top:10%">
             <img src="/images/buy/group-6@2x.png" style="width:63%">
         </div>
 
         <div style="text-align: center;">
-            <img src="/images/artboard-1@2x.png" style="width: 100%">
+            <img src="/images/artboard-1@2x.png" style="width: 90%;    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;margin-top: 10%;">
         </div>
 
         <p class="text" style="margin-top: 10%">
-            A Massager. Unlike any other.
+            A Massage Chair unlike any other.
         </p>
-        <p class="text-2" style="margin-left:11%; margin-right: 11%;margin-top: 5%">
+        <p class="text-2" style="margin-left:11%; margin-right: 11%;margin-top: 10%">
             If massage chairs were invented today, what would it look like?
             It would be powerful, intelligent, effective, comfortable — and aesthetically beautiful.  Because a massage chair is more than a device for therapy. It is an object that complements your choice and represents your desire — to relax and rejuvenate.
         </p>
@@ -31,7 +32,7 @@
 
 
         <div style="text-align: center;">
-            <img src="/images/buy/artboard-1-copy-2@2x.png" style="width: 100%;margin-top:-5%">
+            <img src="/images/buy/artboard-1-copy-2@2x.png" style="width: 100%;margin-top:5%;box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;">
         </div>
 
         <p class="text" style="margin-top: 10%">
@@ -47,7 +48,7 @@
                     <div>
                         <span>Relieve Muscle Fatigue</span>
                         <br>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        A commonly held belief among trainers and athletes alike is that massage increases blood flow, thereby decreasing lactic acid build up. Regular massage can greatly reduce muscle fatigue brought on by physical exertion.
                     </div>
                 </div>
                  <div class="col">
@@ -57,7 +58,7 @@
                     <div>
                         <span>Promotes Blood Circulation</span>
                         <br>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Repeated compression and relaxation of the muscles causes blood vessels to be emptied and filled, which increases the removal of waste products like lactic acid thereby promoting effective circulation.
                     </div>
                 </div>
                  <div class="col">
@@ -67,7 +68,7 @@
                     <div>
                         <span>Release Muscle Tension & Stiffness</span>
                         <br>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Massage manipulates muscles increases blood flow. Increasing blood flow facilitates the circulation and absorption of nutritional elements into the muscles and tissues. Increasing lymphatic circulation clears toxins out of these areas. Together, this revitalizes the massaged area.
                     </div>
                 </div>
             </div>
@@ -79,7 +80,7 @@
                     <div>
                         <span>Strengthens the Immune System</span>
                         <br>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Massage therapy increases the activity level of the body’s white blood cells that work to combat viruses. Massage therapy causes significant positive changes in lymphocytes, which play a large role in defending the body from disease.
                     </div>
                 </div>
                  <div class="col">
@@ -89,7 +90,7 @@
                     <div>
                         <span>Reduces Stress, Anxities, & aids Relaxation</span>
                         <br>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Massage therapy manipulates the body’s muscles and soft tissues to relieve pain or decrease stress. It can reduce pain, promote muscle relaxation, and improve both mood and sleep quality.
                     </div>
                 </div>
                  <div class="col">
@@ -99,21 +100,58 @@
                     <div>
                         <span>Fosters faster healing of Sprains</span>
                         <br>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Many Doctors recommend massage therapy or therapeutic bodywork. Massage also relieves tension. It also helps to drain away the fluid and blood, which are the main causes of swelling.
                     </div>
                 </div>
             </div>
         </div>
 
-
+        <p class="text" style="margin-top: 10%">
+            Pricing
+        </p>
         
-        <div style="text-align: center;    margin-top: 10%;">
-            <img src="/images/buy/94C97D5C-5BD8-49D7-8B83-E14785E133B2.png" style="width: 100%;margin-top:-5%">
+        <div style="text-align: center;">
+            <img src="/images/buy/94C97D5C-5BD8-49D7-8B83-E14785E133B2.png" style="width: 100%;    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;margin-top: 10%;">
         </div>
+        
+        <p class="text" style="margin-top: 10%">
+            Interested in a CloudRest Massage chair?
+        </p>
+        
+        <div style="margin-top:10%">
+          <div class="grid-container">
+            <div>
+                <p class="inside-header">Disclaimer</p>
+                <ol class="disclamer-content" style=" padding-left: 30%;padding-right:17%">
+                    <li><p>CloudRest investments are NOT subject to market risks. Please read the FAQ carefully before investing </p></li>
+                    <li><p>Our pricing includes GST, Insurance, Deployment costs, and AMC.
 
+         </p></li>
+                </ol>
+            </div>
+
+            <div>
+                <p class="inside-header">Give us your details!</p>
+                <div style="padding-left: 27%;">
+                    <input type="text" class="inputboxes" placeholder="Your Name">
+                    <input type="text" class="inputboxes" placeholder="Phone Number">
+                    <input type="text" class="inputboxes" placeholder="Email Address">
+                    <input type="submit" class="inputboxes-sub" value="SUBMIT">
+                </div>
+            </div>
+        </div>
+        </div>
+        
         <div style="text-align:center">
             <img src="/images/group-5@3x.png" style="padding-bottom: 5%;padding-top: 10%;width: 18%">
         </div>
+        
 
+      </div>
+        <div id="footer">
+    <p>
+      Copyright (c) 2018 — Grey Box Technologies Pvt Ltd   |   All Rights Reserved
+    </p>
+  </div>
     </body>
 </html>
