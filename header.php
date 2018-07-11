@@ -1,6 +1,6 @@
 <div id="preheader">
   <p>
-    If urgent queries, call us now on +91 9741990113
+    For urgent queries, please call +91 9741990113!
   </p>
 </div>
 <div style="text-align:left;background-color: #ffffff;display:  grid;grid-template-columns: auto auto;margin-top: 2%;margin-left: 38px;margin-right: 38px;" >
