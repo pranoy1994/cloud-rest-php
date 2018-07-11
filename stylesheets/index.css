@@ -249,17 +249,17 @@ ol {
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color:#cececeb8;
     opacity: 1; /* Firefox */
-    font-style: italic
+    font-style: normal
 }
 
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
     color: #cececeb8;
-    font-style: italic;
+    font-style: normal;
 }
 
 ::-ms-input-placeholder { /* Microsoft Edge */
     color: #cececeb8;
-    font-style: italic
+    font-style: normal
 }
 
 .img {

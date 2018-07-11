@@ -52,11 +52,10 @@ padding-right: 20%;">
 </p>
     <p class="text-2" style="margin-top:4%; padding-left: 20%;
 padding-right: 20%;">
-        You can make an alternative investment on our massage machines such as Portable Back Massagers, Leg Massagers, & Full-Body Massagers — ranging from as low as Rs 10,000/- to Rs 2,50,000/-. Using the CloudRest Mobile App, investors can monitor & track their earnings.
-    </p>
+A CloudRest Massage Lounge consists of massage machines such as Portable Back Massagers, Leg Massagers, & Full-Body Massagers — ranging from as low as Rs 10,000/- to Rs 3,60,000/-. These machines are powered with a patented IoT enabled technology that allows you to control, operate, and monitor the machines exclusively through the CloudRest Mobile App.    </p>
 
-    <p style="text-align:center;margin-top:8%">
-        <img src="/images/five-reason-to-inves@2x.png" style="width:70%">
+    <p style="text-align:center;margin-top:8%;">
+        <img src="/images/five-reasons-to-host@2x.png" style="width:49%">
     </p>
 
 

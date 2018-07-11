@@ -20,7 +20,7 @@
         </div>
 
         <div style="text-align: center;">
-            <img src="/images/artboard-1@2x.png" style="width: 85%;    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;margin-top: 8%;">
+            <img src="/images/buy/artboard-1@2x.jpg" style="width: 85%;   margin-top: 8%;">
         </div>
 
         <p class="text" style="margin-top: 8%">
@@ -36,7 +36,7 @@
 
 
         <div style="text-align: center;">
-            <img src="/images/buy/artboard-1-copy-2@2x.png" style="width: 85%;margin-top:5%;box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;">
+            <img src="/images/buy/artboard-1-copy-2@2x.jpg" style="width: 85%;margin-top:5%;">
         </div>
 
         <p class="text" style="margin-top: 8%">
@@ -115,7 +115,7 @@
         </p>
         
         <div style="text-align: center;">
-            <img src="/images/buy/94C97D5C-5BD8-49D7-8B83-E14785E133B2.png" style="width: 85%;    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;margin-top: 8%;">
+            <img src="/images/buy/three.jpg" style="width: 85%;   margin-top: 8%;">
         </div>
         
         <p class="text" style="margin-top: 8%">

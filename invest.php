@@ -42,31 +42,38 @@
         CloudRest isn’t just a tech company. It’s a new way of alternative investment. Unlike other  <span style="  background-color: #4c9142;color: white; 
         font-weight: 900;padding: 1%;    "> alternative investments </span>  like Mutual Funds, etc,. CloudRest investments are not subject to market risks as your investments are made on assets fully owned by you fetching you fixed rentals every month.  
     </p>
+
+
+    <p class="text-2" style="margin-top:6%; padding-left: 25%; padding-right: 25%;">
+    Invest on any of these Smart Massage Machines, which guarantees you a minimum rental income of    <span style="    font-weight: bold;
+  "> 4% EVERY MONTH </span>& profit yield up-to  <span style="  font-weight: bold; ">48% EVERY YEAR.   </span> 
+    </p>
+
 <!-- <div class= "earn-rent">
     earn rent
     
 </div> -->
 
-<div id="rent">
+<!-- <div id="rent">
         <p>earn rent</p>
         <p>4%</p>
         <p>every month</p>
-    </div>
-    <!-- <div id="rent-image" style="text-align:center">
-        <img src="/images/group-6@2x.png" style="width:35%;margin-top:5%;margin-bottom:6%">
     </div> -->
+    <div id="rent-image" style="text-align:center">
+        <img src="/images/Invest/LegMassager1.png" style="width:80%;margin-top:5%;margin-bottom:6%">
+    </div>
 
-    <p class="text-2" style="margin-top: 1%; padding-left: 15%;
+    <!-- <p class="text-2" style="margin-top: 1%; padding-left: 15%;
 padding-right: 15%;">
         CloudRest gives you an option to make an alternative investment that is safe, secure, generates stable monthly returns, and gives you long-term growth opportunity. Invest on our massage machines, where we guarantee you a minimum rent of up-to <span style="font-weight:bold">4% EVERY MONTH</span> & profit yield up-to <span style="font-weight:bold"> 48% EVERY YEAR.</span>  
     </p>
     <p class="text-2" style="margin-top:3%; padding-left: 15%;
 padding-right: 15%;">
         You can make an alternative investment on our massage machines such as Portable Back Massagers, Leg Massagers, & Full-Body Massagers — ranging from as low as Rs 10,000/- to Rs 2,50,000/-. Using the CloudRest Mobile App, investors can monitor & track their earnings.
-    </p>
+    </p> -->
 
     <p style="text-align:center;margin-top:8%">
-        <img src="/images/five-reason-to-inves@2x.png" style="width:70%">
+    <img src="/images/five-reasons-to-host@2x.png" style="width:49%">
     </p>
 
  <div style="display:flex;flex-direction: row;">
@@ -83,7 +90,7 @@ padding-right: 15%;">
 
     <div style="margin-top:8%">
         <p class="heading">Low Starting Point</p>
-        <p class="heading-body">When you’re investing in CloudRest Smart Massagers, the starting point of your investment is as low as Rs 10,000/- & can go up to Rs 2,50,000/-.</p>
+        <p class="heading-body">When you’re investing in CloudRest Smart Massagers, the starting point of your investment is as low as Rs 10,000/- & can go up to Rs 3,60,000/-.</p>
     </div>
 
     <div style="margin-top:5%">
@@ -118,7 +125,7 @@ padding-right: 15%;">
         <p class="heading-body" style= "padding-right: 25%;">It all starts with with the first contact. Fill up your details on the form below and our executive will get in touch with you to discuss your investment & advise you on the assets & it’s deployment. We currently have three models of Smart Massage Machines available for investment & deployment.</p>
     </div>
 
-    <div class="index-5" style="margin-top: 2%;margin-left: 10%;
+    <!-- <div class="index-5" style="margin-top: 2%;margin-left: 10%;
 margin-right: 10%;
 grid-column-gap: 0%;
 padding: 0%;">
@@ -127,7 +134,7 @@ padding: 0%;">
     <img src="/images/4DFullBody.jpg">
 
     
-</div>
+</div> -->
 
     <div style="margin-top:5%">
     <p class="heading"><Span style="color: #4c9142; font-size:32px; ">2.&nbsp;</span>Sign Up with CloudRest</p>
