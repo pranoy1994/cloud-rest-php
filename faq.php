@@ -5,6 +5,8 @@
             <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet">
             <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
             <link href='/stylesheets/index.css' rel='stylesheet' type='text/css'>
+            <title>CloudRest Smart Massage Lounge</title>
+        <link rel="shortcut icon" type="image/png" href="/images/CloudrestFav.png"/>
     </head>
 
 

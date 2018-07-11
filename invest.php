@@ -5,7 +5,8 @@
         <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet">
         <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
         <link href='/stylesheets/index.css' rel='stylesheet' type='text/css'>
-
+        <title>CloudRest Smart Massage Lounge</title>
+        <link rel="shortcut icon" type="image/png" href="/images/CloudrestFav.png"/>
         <style>
         
         .earn-rent {
@@ -38,62 +39,118 @@
     </p>
 
     <p class="text-2" style="margin-top:6%; padding-left: 25%; padding-right: 25%;">
-        CloudRest isn’t just a tech company. It’s a new way of alternative investment. Unlike other  <span style="  background-color: #4c9142;
-                   ">
-         alternative investments</span>  like Mutual Funds, etc,. CloudRest investments are not subject to market risks as your investments are made on assets fully owned by you fetching you fixed rentals every month.  
+        CloudRest isn’t just a tech company. It’s a new way of alternative investment. Unlike other  <span style="  background-color: #4c9142;color: white; 
+        font-weight: 900;padding: 1%;    "> alternative investments </span>  like Mutual Funds, etc,. CloudRest investments are not subject to market risks as your investments are made on assets fully owned by you fetching you fixed rentals every month.  
     </p>
 <!-- <div class= "earn-rent">
     earn rent
     
 </div> -->
-    <div id="rent-image" style="text-align:center">
-        <img src="/images/group-6@2x.png" style="width:35%;margin-top:5%;margin-bottom:6%">
-    </div>
 
-    <p class="text-2">
+<div id="rent">
+        <p>earn rent</p>
+        <p>4%</p>
+        <p>every month</p>
+    </div>
+    <!-- <div id="rent-image" style="text-align:center">
+        <img src="/images/group-6@2x.png" style="width:35%;margin-top:5%;margin-bottom:6%">
+    </div> -->
+
+    <p class="text-2" style="margin-top: 1%; padding-left: 15%;
+padding-right: 15%;">
         CloudRest gives you an option to make an alternative investment that is safe, secure, generates stable monthly returns, and gives you long-term growth opportunity. Invest on our massage machines, where we guarantee you a minimum rent of up-to <span style="font-weight:bold">4% EVERY MONTH</span> & profit yield up-to <span style="font-weight:bold"> 48% EVERY YEAR.</span>  
     </p>
-    <p class="text-2" style="margin-top:4%">
+    <p class="text-2" style="margin-top:3%; padding-left: 15%;
+padding-right: 15%;">
         You can make an alternative investment on our massage machines such as Portable Back Massagers, Leg Massagers, & Full-Body Massagers — ranging from as low as Rs 10,000/- to Rs 2,50,000/-. Using the CloudRest Mobile App, investors can monitor & track their earnings.
     </p>
 
-    <p style="text-align:center;margin-top:10%">
+    <p style="text-align:center;margin-top:8%">
         <img src="/images/five-reason-to-inves@2x.png" style="width:70%">
     </p>
 
+ <div style="display:flex;flex-direction: row;">
+        <!-- <div style="display: flex;flex-direction: column;">
+            <img class="step-image" src="/images/step-one@3x.png">
+            <img class="step-image" src="/images/step-two@3x.png" style="margin-top: 15%">
+            <img class="step-image" src="/images/step-three@3x.png" style="margin-top:33%">
+            <img class="step-image" src="/images/step-four@3x.png" style="margin-top:55%">
+            <img class="step-image" src="/images/step-five@3x.png" style="margin-top:74%">
+            <img class="step-image" src="/images/step-six@3x.png" style="margin-top:16%">
+        </div> -->
+        <div>
+      
 
-
-    <div style="margin-top:5%">
-        <p class="heading">LOW STARTING POINT</p>
+    <div style="margin-top:8%">
+        <p class="heading">Low Starting Point</p>
         <p class="heading-body">When you’re investing in CloudRest Smart Massagers, the starting point of your investment is as low as Rs 10,000/- & can go up to Rs 2,50,000/-.</p>
     </div>
 
     <div style="margin-top:5%">
-        <p class="heading">ONLY ON PHYSICAL ASSETS</p>
+        <p class="heading">Only On Physical Assets</p>
         <p class="heading-body">CloudRest investments are on Machines — actual physical product that are billed in your name, that can be tracked through GPS, and usage will be monitored through the CloudRest Mobile App. Unlike virutal assets such as Stocks, Mutual Funds, Bonds, Commodities, etc., you don’t have to worry about your investments disappearing.</p>
     </div>
 
     <div style="margin-top:5%">
-        <p class="heading">BACKET BY IOT TECHNOLOGY</p>
+        <p class="heading">Backet By IoT Technology</p>
         <p class="heading-body">All CloudRest Massage Machines are embeded with a patented IoT chip which helps you monitor & track the machine through the CloudRest Mobile App. So when you invest with us, you can completely monitor & track your earnings on a real-time basis. </p>
     </div>
 
     <div style="margin-top:5%">
-        <p class="heading">FIXED RENTALS</p>
+        <p class="heading">Fixed Rentals</p>
         <p class="heading-body">Unlike most investments which are subject to factors such as market sentiments, etc,. CloudRest investments are not subject to Market Risks. We give you a guaranteed minimum rent of 4% every month on your CloudRest Massage Machine.</p>
     </div>
 
     <div style="margin-top:5%">
-        <p class="heading">PLANNED ROI</p>
+        <p class="heading">Planned ROI</p>
         <p class="heading-body">Through our guaranteed monthly rent of 5% and our buy-back promise — you can calculate your ROI before you invest with us. For your info, our model is structured to help you earn atleast 48% profit on your Investment. </p>
     </div>
+    </div>
+    </div>
 
-
-    <p style="text-align:center;margin-top:15%">
-        <img src="/images/how-to-get-started@2x.png" style="width:48%">
+    <p  class="text" style="margin-top: 8%">
+        <!-- <img src="/images/how-to-get-started@2x.png" style="width:48%"> -->
+        How it works?
     </p>
 
-    <div style="display:flex;flex-direction: row;text-align:center;margin-top:10%;padding-left:10%;padding-right:10%">
+    <div style="margin-top:8%">
+        <p class="heading"><Span style="color: #4c9142; font-size:32px; ">1.&nbsp;</span>Get in touch with us</p>
+        <p class="heading-body" style= "padding-right: 25%;">It all starts with with the first contact. Fill up your details on the form below and our executive will get in touch with you to discuss your investment & advise you on the assets & it’s deployment. We currently have three models of Smart Massage Machines available for investment & deployment.</p>
+    </div>
+
+    <div class="index-5" style="margin-top: 2%;margin-left: 10%;
+margin-right: 10%;
+grid-column-gap: 0%;
+padding: 0%;">
+    <img src="/images/LegMassager.jpg">
+    <img src="/images/2DAdvance.jpg">
+    <img src="/images/4DFullBody.jpg">
+
+    
+</div>
+
+    <div style="margin-top:5%">
+    <p class="heading"><Span style="color: #4c9142; font-size:32px; ">2.&nbsp;</span>Sign Up with CloudRest</p>
+    <p class="heading-body" style= "padding-right: 25%;">Once you’ve made your decision, you’ll make a official payment to CloudRest and we will bill the Machines on your name. This way, you can be assured that you are the legal and true owner of the CloudRest Smart Massage Machines.</p>
+  </div>
+
+  <div style="margin-top:5%">
+    <p class="heading"><Span style="color: #4c9142; font-size:32px; ">3.&nbsp;</span>Lease Back</p>
+    <p class="heading-body" style= "padding-right: 25%;">Next, we sign a 12-month Lease agreement with you for the Machines you’ve invested in effectively guaranteeing a fixed monthly rental income.</p>
+  </div>
+  <div style="margin-top:5%">
+    <p class="heading"><Span style="color: #4c9142; font-size:32px; ">4.&nbsp;</span>Deployment</p>
+    <p class="heading-body" style= "padding-right: 25%;">Armed with your Machines in inventory, we deploy them in high-footfall places such as Malls, IT Offices, Sports Areas, Airports, etc,. Your Machines start generating revenue immediately on deployment — and we pay your Rent income every month.</p>
+  </div>
+  <div style="margin-top:5%">
+    <p class="heading"><Span style="color: #4c9142; font-size:32px; ">5.&nbsp;</span>After 12-month Lease</p>
+    <p class="heading-body" style= "padding-right: 25%;">At the end of the 12-month Lease agreement, we give you two option — etiher Renew the lease and continue enjoying monthly rental income or opt out and we will buy-back the CloudRest Smart Massage Machines you’ve invested in after deducting a nominal depreciation rate. </p>
+  </div>
+
+   
+
+
+    <!-- <div style="display:flex;flex-direction: row;text-align:center;margin-top:10%;padding-left:10%;padding-right:10%">
         <div style="display: flex;flex-direction: column;">
             <img class="step-image" src="/images/step-one@3x.png">
             <img class="step-image" src="/images/step-two@3x.png" style="margin-top: 15%">
@@ -101,13 +158,13 @@
             <img class="step-image" src="/images/step-four@3x.png" style="margin-top:55%">
             <img class="step-image" src="/images/step-five@3x.png" style="margin-top:74%">
             <img class="step-image" src="/images/step-six@3x.png" style="margin-top:16%">
-        </div>
-        <div>
+        </div> -->
+        <!-- <div>
             <img src="/images/sign-up-with-us-our@3x.png" style="width:80%">
         </div>
-    </div>
+    </div> -->
 
-    <div style="margin-top:15%">
+    <div style="margin-top:8%">
         <?php include 'contact-us.php' ?>
     </div>
     <div style="text-align:center">
