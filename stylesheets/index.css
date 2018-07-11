@@ -31,8 +31,8 @@ body {
   letter-spacing: normal;
   text-align: right;
   color: #ffffff;
-  padding-top: 6px;
-  padding-right: 53px;
+  padding-top: 7px;
+  padding-right: 4%;
 }
 .headerButton {
     height: 39px;
@@ -49,7 +49,7 @@ body {
 }
 
 .header-btn-grp {
-    margin-top: 2%;
+    margin-top: 1%;
     margin-right: 2%;
 }
 
@@ -93,7 +93,7 @@ body {
 .text {
     object-fit: contain;
     font-family: Lato;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     font-style: normal;
     font-stretch: normal;
@@ -106,17 +106,17 @@ body {
 .text-2 {
     object-fit: contain;
     font-family: Lato;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
     line-height: 1.5;
     letter-spacing: normal;
     text-align: center;
-    color: #000000;
+    color: #231f20;
     padding-left: 10%;
     padding-right: 10%;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 .heading {
     object-fit: contain;
@@ -193,7 +193,7 @@ body {
 .disclamer-content p{
     object-fit: contain;
     font-family: Lato;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
@@ -323,13 +323,15 @@ ol {
     display: grid;
     grid-template-columns: auto auto auto;
     justify-content: space-around;
-    margin-top: 10%;
+    margin-top: 6%;
     grid-column-gap: 4%;
+    padding: 2%;
+
 }
 
 .index-5-section {
-    width: 340px;
-    height: 443px;
+    width: 100%;
+    height: 400px;
     object-fit: contain;
     border-radius: 8px;
     background-color: #fbfbfb;
@@ -338,14 +340,16 @@ ol {
 
 .index-5-section  > img {
 
-    width: 40%;
-    margin-top: 10%
+    height: 18%;
+    margin-top: 8%;
+    margin-bottom: 6%;
+
 }
 
 .index-5-section > p {
     object-fit: contain;
     font-family: Lato;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
@@ -353,8 +357,10 @@ ol {
     letter-spacing: normal;
     text-align: center;
     color: #231f20;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 13%;
+    padding-right: 13%;
+    height: 25%;
+
 }
 
 .index-5-section > p > span {
@@ -369,9 +375,11 @@ ol {
     border: solid 2px #4c9142;
     color: #4c9142;
     font-weight: 900;
-    margin-left: 17px;
-    font-size: 14px;
+    font-size: 16px;
     padding: 7px;
+    margin-top: 80px;
+
+
     cursor: pointer;
     font-family: Lato;
     box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);

@@ -9,37 +9,39 @@
 
 
     <body>
+        
+
         <?php include 'header.php' ?>
       <div class="body">
         <div style="text-align: center;margin-top:10%">
-            <img src="/images/buy/group-6@2x.png" style="width:63%">
+            <img src="/images/buy/group-6@2x.png" style="width:50%">
         </div>
 
         <div style="text-align: center;">
-            <img src="/images/artboard-1@2x.png" style="width: 90%;    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;margin-top: 10%;">
+            <img src="/images/artboard-1@2x.png" style="width: 85%;    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;margin-top: 8%;">
         </div>
 
-        <p class="text" style="margin-top: 10%">
+        <p class="text" style="margin-top: 8%">
             A Massage Chair unlike any other.
         </p>
-        <p class="text-2" style="margin-left:11%; margin-right: 11%;margin-top: 10%">
+        <p class="text-2" style="margin-left:11%; margin-right: 11%;margin-top: 8%">
             If massage chairs were invented today, what would it look like?
             It would be powerful, intelligent, effective, comfortable — and aesthetically beautiful.  Because a massage chair is more than a device for therapy. It is an object that complements your choice and represents your desire — to relax and rejuvenate.
         </p>
-        <p class="text" style="margin-top: 10%">
+        <p class="text" style="margin-top: 8%">
             The power of <span style="font-family: QS;font-weight: 100;font-size: 160%;">four</span> masseuses in <span style="font-family: QS;font-weight: 100;font-size: 160%;">one.</span>
         </p>
 
 
         <div style="text-align: center;">
-            <img src="/images/buy/artboard-1-copy-2@2x.png" style="width: 100%;margin-top:5%;box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;">
+            <img src="/images/buy/artboard-1-copy-2@2x.png" style="width: 85%;margin-top:5%;box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;">
         </div>
 
-        <p class="text" style="margin-top: 10%">
+        <p class="text" style="margin-top: 8%">
             How these massages helps you!
         </p>
 
-        <div class="buy-help">
+        <div class="buy-help" style="margin-top: 8%;">
             <div>
                 <div class="col">
                     <div>
@@ -106,25 +108,25 @@
             </div>
         </div>
 
-        <p class="text" style="margin-top: 10%">
+        <p class="text" style="margin-top: 8%">
             Pricing
         </p>
         
         <div style="text-align: center;">
-            <img src="/images/buy/94C97D5C-5BD8-49D7-8B83-E14785E133B2.png" style="width: 100%;    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;margin-top: 10%;">
+            <img src="/images/buy/94C97D5C-5BD8-49D7-8B83-E14785E133B2.png" style="width: 85%;    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.16);border-radius: 50px;margin-top: 8%;">
         </div>
         
-        <p class="text" style="margin-top: 10%">
+        <p class="text" style="margin-top: 8%">
             Interested in a CloudRest Massage chair?
         </p>
         
-        <div style="margin-top:10%">
+        <div style="margin-top:8%">
           <div class="grid-container">
             <div>
                 <p class="inside-header">Disclaimer</p>
                 <ol class="disclamer-content" style=" padding-left: 30%;padding-right:17%">
-                    <li><p>CloudRest investments are NOT subject to market risks. Please read the FAQ carefully before investing </p></li>
-                    <li><p>Our pricing includes GST, Insurance, Deployment costs, and AMC.
+                    <li><p>Fill up this form on the right. Give us your details & our executive will get in touch with you.  </p></li>
+                    <li><p>We will send you a payment link — even if you wish to buy it on EMI. Once you make a payment we will deliver your order. 
 
          </p></li>
                 </ol>

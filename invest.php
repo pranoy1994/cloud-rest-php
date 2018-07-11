@@ -5,34 +5,49 @@
         <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet">
         <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
         <link href='/stylesheets/index.css' rel='stylesheet' type='text/css'>
+
+        <style>
+        
+        .earn-rent {
+  height: 76px;
+  font-family: QuiteSomethingDEMO;
+  font-size: 72px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4c9142;
+}
+        </style>
 </head>
 <body>
 
     <?php include 'header.php' ?>
     <div class="body">
     <div id="invest-page-banner" style="text-align: center">
-        <img src="/images/everyone-everywhere@3x.png" style="width:80%;margin-top:10%"/>
+        <img src="/images/everyone-everywhere@3x.png" style="width:60%;margin-top:10%"/>
     </div>
 
     <div id="invest-image" style="text-align: center">
-        <img src="/images/pexels-photo-91227@2x.png" style="width:85%;margin-top:5%;position:absolute;margin-left: -42%">
+        <img src="/images/pexels-photo-91227@2x.png" style="width:76%;margin-top:7%;position:absolute;margin-left: -37%">
     </div>
 
-    <p class="text">
+    <p class="text" style="margin-top:68%">
         Become an investor in CloudRest!
     </p>
 
-    <p class="text-2">
-        CloudRest isn’t just a tech company. It’s a new way 
-        <span style="background: url(/images/fill-1-copy@3x.png) no-repeat;
-                    padding-top: 14px;
-                    padding-bottom: 30px;
-                    background-size: 94%;">
-         of alternative investment</span>. Unlike other alternative investments like Mutual Funds, etc,. CloudRest investments are not subject to market risks as your investments are made on assets fully owned by you fetching you fixed rentals every month.  
+    <p class="text-2" style="margin-top:6%; padding-left: 25%; padding-right: 25%;">
+        CloudRest isn’t just a tech company. It’s a new way of alternative investment. Unlike other  <span style="  background-color: #4c9142;
+                   ">
+         alternative investments</span>  like Mutual Funds, etc,. CloudRest investments are not subject to market risks as your investments are made on assets fully owned by you fetching you fixed rentals every month.  
     </p>
-
+<!-- <div class= "earn-rent">
+    earn rent
+    
+</div> -->
     <div id="rent-image" style="text-align:center">
-        <img src="/images/group-6@2x.png" style="width:30%;margin-top:15%;margin-bottom:6%">
+        <img src="/images/group-6@2x.png" style="width:35%;margin-top:5%;margin-bottom:6%">
     </div>
 
     <p class="text-2">
