@@ -7,6 +7,7 @@
         <link href='/stylesheets/index.css' rel='stylesheet' type='text/css'>
         <title>CloudRest Smart Massage Lounge</title>
         <link rel="shortcut icon" type="image/png" href="/images/CloudrestFav.png"/>
+        <meta charset="UTF-8">
         <style>
         
         .earn-rent {
@@ -88,9 +89,9 @@ padding-right: 15%;">
         </div>
         <div>
       
-
+        <!-- <span style="font-size:32px">😍 </span> -->
     <div style="margin-top:8%">
-        <p class="heading" style="padding-left: 21%;"> <span style="font-size:32px">😍 </span> Low Starting Point</p>
+        <p class="heading" style="padding-left: 21%;"> Low Starting Point</p>
         <p class="heading-body">When you’re investing in CloudRest Smart Massagers, the starting point of your investment is as low as Rs 10,000/- & can go up to Rs 3,60,000/-.</p>
     </div>
 

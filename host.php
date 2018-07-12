@@ -6,6 +6,7 @@
         <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
         <link href='/stylesheets/index.css' rel='stylesheet' type='text/css'>
         <title>CloudRest Smart Massage Lounge</title>
+        <meta charset="UTF-8">
         <link rel="shortcut icon" type="image/png" href="/images/CloudrestFav.png"/>
 </head>
 <body>
