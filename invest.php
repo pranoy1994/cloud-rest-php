@@ -91,7 +91,7 @@ padding-right: 15%;">
       
         <!-- <span style="font-size:32px">😍 </span> -->
     <div style="margin-top:8%">
-        <p class="heading" style="padding-left: 21%;"> Low Starting Point</p>
+        <p class="heading" > Low Starting Point</p>
         <p class="heading-body">When you’re investing in CloudRest Smart Massagers, the starting point of your investment is as low as Rs 10,000/- & can go up to Rs 3,60,000/-.</p>
     </div>
 
