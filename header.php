@@ -38,7 +38,7 @@
         </button>
         <button class="headerButton" id="schoolName" onclick="location.href='/contact.php'" style="width: 110px;">
           <div class="image-text-holder">
-            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/white-right-pointing-backhand-index_1f449.png" style="width: 20%;height: 2%;"/>
+            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/white-right-pointing-backhand-index_1f449.png" style="width: 16px;height: 2%;"/>
             <p style="margin-top: 0%;">&nbspContact</p> 
           </div>
         </button>
