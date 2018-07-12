@@ -72,24 +72,25 @@ padding-right: 15%;">
         You can make an alternative investment on our massage machines such as Portable Back Massagers, Leg Massagers, & Full-Body Massagers — ranging from as low as Rs 10,000/- to Rs 2,50,000/-. Using the CloudRest Mobile App, investors can monitor & track their earnings.
     </p> -->
 
-    <p style="text-align:center;margin-top:8%">
-    <img src="/images/five-reasons-to-host@2x.png" style="width:49%">
+    <p style="text-align:center;">
+    <img src="/images/Invest/five-reasons-to-inve.png" style="width:49%">
     </p>
 
  <div style="display:flex;flex-direction: row;">
-        <!-- <div style="display: flex;flex-direction: column;">
-            <img class="step-image" src="/images/step-one@3x.png">
+        <div style="display: flex;flex-direction: column;">
+        
+            <!-- <img class="step-image" src="/images/step-one@3x.png">
             <img class="step-image" src="/images/step-two@3x.png" style="margin-top: 15%">
             <img class="step-image" src="/images/step-three@3x.png" style="margin-top:33%">
             <img class="step-image" src="/images/step-four@3x.png" style="margin-top:55%">
             <img class="step-image" src="/images/step-five@3x.png" style="margin-top:74%">
-            <img class="step-image" src="/images/step-six@3x.png" style="margin-top:16%">
-        </div> -->
+            <img class="step-image" src="/images/step-six@3x.png" style="margin-top:16%"> -->
+        </div>
         <div>
       
 
     <div style="margin-top:8%">
-        <p class="heading">Low Starting Point</p>
+        <p class="heading" style="padding-left: 21%;"> <span style="font-size:32px">😍 </span> Low Starting Point</p>
         <p class="heading-body">When you’re investing in CloudRest Smart Massagers, the starting point of your investment is as low as Rs 10,000/- & can go up to Rs 3,60,000/-.</p>
     </div>
 
