@@ -100,7 +100,7 @@ padding-right: 15%;">
 
     <div style="margin-top:5%">
         <p class="heading">Backet By IoT Technology</p>
-        <p class="heading-body">All CloudRest Massage Machines are embeded with a patented IoT chip which helps you monitor & track the machine through the CloudRest Mobile App. So when you invest with us, you can completely monitor & track your earnings on a real-time basis. </p>
+        <p class="heading-body">All CloudRest Massage Machines are embedded with a patented IoT chip. So when you invest with us, you can completely monitor and track your assets on a real-time basis. </p>
     </div>
 
     <div style="margin-top:5%">
