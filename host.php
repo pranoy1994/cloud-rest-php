@@ -78,17 +78,17 @@ A CloudRest Massage Lounge consists of massage machines such as Portable Back Ma
 
 <div style="margin-top:5%">
     <p class="heading">Zero Investment</p>
-    <p class="heading-body">Unlike other Franchise model, there is absolutely no need to block huge amounts of your money on Assets. With CloudRest, just make a refundable security deposit worth 30% of the machine value & start your business.</p>
+    <p class="heading-body">Unlike other Franchise model, there is no need to block huge amounts of your money on Assets. With CloudRest, you just have to sign up with us and we will take care of the rest — absolutely no investment from your end. </p>
 </div>
 
 <div style="margin-top:5%">
     <p class="heading">Backed by IoT Technology to keep track of operations</p>
-    <p class="heading-body">All CloudRest Massage Machines are embeded with a patented IoT chip which helps you monitor & track the machine through the CloudRest Mobile App. So when you invest with us, you get complete control on your revenues.</p>
+    <p class="heading-body">All CloudRest Massage Machines are embeded with a patented IoT chip which helps you monitor and track the machine usage through the CloudRest Mobile App. So when you host a CloudRest Lounge — you have complete control!
 </div>
 
 <div style="margin-top:5%">
     <p class="heading">Assured zero-cost maintenance & product support</p>
-    <p class="heading-body">If you’re planning on becoming a CloudRest Host but worried about maintenance & product support — Don’t Worry! All CloudRest Massage Machines come with an AMC that covers all manufacturing defects & usage related problems. And we will also replace the CloudRest Massage Machines in your space every 12 months — giving your business a brand-new look & feel without incurring any cost on your end. </p>
+    <p class="heading-body">If you’re planning on becoming a CloudRest Host but worried about maintenance & product support — Don’t Worry! All CloudRest Massage Machines come with a AMC that covers all manufacturing defects & usage related problems. And we will also replace the CloudRest Massage Machines in your space every 24 months — giving your business a brand-new look & feel without incurring any cost on your end.  </p>
 </div>
 
 <div style="margin-top:5%">
