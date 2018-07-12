@@ -20,6 +20,14 @@ body {
   background-color: #4c9142;
 }
 
+.new-button {
+   
+}
+
+.image-text-holder {
+  display: flex;
+  justify-content: space-evenly;
+}
 #preheader > p {
   height: 17px;
   font-family: Lato;
@@ -36,7 +44,7 @@ body {
 }
 .headerButton {
     height: 39px;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: #ffffff;
     border: solid 2px #4c9142;
     color: #4c9142;
@@ -46,6 +54,22 @@ body {
     padding:7px;
     cursor: pointer;
     font-family: Lato;
+    width: 82px;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.08);
+    outline: none;
+}
+
+.thankyou {
+    object-fit: contain;
+    font-family: QS;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #231f20;
 }
 
 .header-btn-grp {
