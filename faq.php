@@ -7,6 +7,7 @@
             <link href='/stylesheets/index.css' rel='stylesheet' type='text/css'>
             <title>CloudRest Smart Massage Lounge</title>
         <link rel="shortcut icon" type="image/png" href="/images/CloudrestFav.png"/>
+        <meta charset="UTF-8">
     </head>
 
 
