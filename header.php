@@ -8,38 +8,38 @@
     <div id="btn" class="header-btn-grp" style="text-align:right">
         <button class="headerButton" id="schoolName" onclick="location.href='/buy.php'">
           <div class="image-text-holder">
-            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/seat_1f4ba.png" style="width: 34%;height: 2%;"/>
-            <p style="margin-top: 0%;">BUY</p> 
+            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/seat_1f4ba.png" style="width: 25%;height: 2%;"/>
+            <p style="margin-top: 0%;">&nbspBUY</p> 
           </div>
         </button>
         <button class="headerButton" id="schoolName" onclick="location.href='/invest.php'">          
           <div class="image-text-holder">
-            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/money-mouth-face_1f911.png" style="width: 34%;height: 2%;"/>
-            <p style="margin-top: 0%;">Invest</p> 
+            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/money-mouth-face_1f911.png" style="width: 25%;height: 2%;"/>
+            <p style="margin-top: 0%;">&nbspInvest</p> 
           </div>
         </button>
         <button class="headerButton" id="schoolName" onclick="location.href='/host.php'">
           <div class="image-text-holder">
-            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/couch-and-lamp_1f6cb.png" style="width: 34%;height: 2%;"/>
-            <p style="margin-top: 0%;">Host</p> 
+            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/couch-and-lamp_1f6cb.png" style="width: 25%;height: 2%;"/>
+            <p style="margin-top: 0%;">&nbspHost</p> 
           </div>
         </button>
         <button class="headerButton" id="schoolName" onclick="location.href='/faq.php'">
            <div class="image-text-holder">
-            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/thinking-face_1f914.png" style="width: 34%;height: 2%;"/>
-            <p style="margin-top: 0%;">FAQ</p> 
+            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/thinking-face_1f914.png" style="width: 25%;height: 2%;"/>
+            <p style="margin-top: 0%;">&nbspFAQ</p> 
           </div>
         </button>
         <button class="headerButton" id="schoolName" onclick="location.href='/aboutus.php'" style="width:120px">
           <div class="image-text-holder">
-            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/family_1f46a.png" style="width: 22px;height: 2%;"/>
-            <p style="margin-top: 0%;">About Us</p> 
+            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/family_1f46a.png" style="width: 16px;height: 2%;"/>
+            <p style="margin-top: 0%;">&nbspAbout Us</p> 
           </div>
         </button>
         <button class="headerButton" id="schoolName" onclick="location.href='/contact.php'" style="width: 110px;">
           <div class="image-text-holder">
-            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/white-right-pointing-backhand-index_1f449.png" style="width: 24%;height: 2%;"/>
-            <p style="margin-top: 0%;">Contact</p> 
+            <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/white-right-pointing-backhand-index_1f449.png" style="width: 20%;height: 2%;"/>
+            <p style="margin-top: 0%;">&nbspContact</p> 
           </div>
         </button>
   </div>
