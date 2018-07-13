@@ -61,40 +61,40 @@ A CloudRest Massage Lounge consists of massage machines such as Portable Back Ma
 
 
     <div style="display:flex;flex-direction: row;">
-    <!-- <div style="display: flex;flex-direction: column;">
-        <img class="step-image" src="/images/step-one@3x.png">
-        <img class="step-image" src="/images/step-two@3x.png" style="margin-top: 15%">
+    <div style="display: flex;flex-direction: column;">
+        <!-- <img class="step-image" src="/images/host/Smiley@2x.png"> -->
+        <!-- <img class="step-image" src="/images/step-two@3x.png" style="margin-top: 15%">
         <img class="step-image" src="/images/step-three@3x.png" style="margin-top:33%">
         <img class="step-image" src="/images/step-four@3x.png" style="margin-top:55%">
         <img class="step-image" src="/images/step-five@3x.png" style="margin-top:74%">
-        <img class="step-image" src="/images/step-six@3x.png" style="margin-top:16%">
-    </div> -->
+        <img class="step-image" src="/images/step-six@3x.png" style="margin-top:16%"> -->
+    </div>
     <div>
   
 
 <div style="margin-top:8%">
-    <p class="heading">Generate Additional Revenues</p>
-    <p class="heading-body">If you have any empty space in your premises, we want you to host our Massage Machines to generate additional revenues. </p>
+ <p class="heading" style="margin-left: -46px;"><span style="font-size:30px"> 😍&nbsp;&nbsp;</span><span style="">Generate Additional Revenues</span></p>
+    <p class="heading-body" style="margin-top: -20px;">If you have any empty space in your premises, we want you to host our Massage Machines to generate additional revenues. </p>
 </div>
 
 <div style="margin-top:5%">
-    <p class="heading">Zero Investment</p>
-    <p class="heading-body">Unlike other Franchise model, there is no need to block huge amounts of your money on Assets. With CloudRest, you just have to sign up with us and we will take care of the rest — absolutely no investment from your end. </p>
+    <p class="heading" style="margin-left: -82px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;&nbsp;</span>Zero Investment</p>
+    <p class="heading-body"style="margin-top: -20px;">Unlike other Franchise model, there is no need to block huge amounts of your money on Assets. With CloudRest, you just have to sign up with us and we will take care of the rest — absolutely no investment from your end. </p>
 </div>
 
 <div style="margin-top:5%">
-    <p class="heading">Backed by IoT Technology to keep track of operations</p>
-    <p class="heading-body">All CloudRest Massage Machines are embeded with a patented IoT chip which helps you monitor and track the machine usage through the CloudRest Mobile App. So when you host a CloudRest Lounge — you have complete control!
+    <p class="heading" style="margin-left: -122px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;😍&nbsp;&nbsp;</span>Backed by IoT Technology to keep track of operations</p>
+    <p class="heading-body"style="margin-top: -20px;">All CloudRest Massage Machines are embeded with a patented IoT chip which helps you monitor and track the machine usage through the CloudRest Mobile App. So when you host a CloudRest Lounge — you have complete control!
 </div>
 
 <div style="margin-top:5%">
-    <p class="heading">Assured zero-cost maintenance & product support</p>
-    <p class="heading-body">If you’re planning on becoming a CloudRest Host but worried about maintenance & product support — Don’t Worry! All CloudRest Massage Machines come with a AMC that covers all manufacturing defects & usage related problems. And we will also replace the CloudRest Massage Machines in your space every 24 months — giving your business a brand-new look & feel without incurring any cost on your end.  </p>
+    <p class="heading"style="margin-left: -122px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;😍&nbsp;&nbsp;</span>Assured zero-cost maintenance & product support</p>
+    <p class="heading-body"style="margin-top: -25px;opacity: 1;"><span style="font-size:30px; margin-left: -48px;"> 😍&nbsp;&nbsp; </span><span style=" opacity: 0.6;">If you’re planning on becoming a CloudRest Host but worried about maintenance & product support — Don’t Worry! All CloudRest Massage Machines come with a AMC that covers all manufacturing defects & usage related problems. And we will also replace the CloudRest Massage Machines in your space every 24 months — giving your business a brand-new look & feel without incurring any cost on your end. </span> </p>
 </div>
 
 <div style="margin-top:5%">
-    <p class="heading">No additional commitments</p>
-    <p class="heading-body">We don’t want our Hosts to worry on any additional payments or commitments to CloudRest. We work on purely revenue sharing model.</p>
+    <p class="heading" style="margin-left: -122px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;😍&nbsp;&nbsp;</span>No additional commitments</p>
+    <p class="heading-body"style="margin-top: -25px;    opacity: 1;"><span style="font-size:30px; margin-left: -85px;"> 😍&nbsp;😍&nbsp;&nbsp;</span><span style=" opacity: 0.6;">We don’t want our Hosts to worry on any additional payments or commitments to CloudRest. We work on purely revenue sharing model.</span></p>
 </div>
 </div>
 </div>

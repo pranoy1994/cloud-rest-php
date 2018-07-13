@@ -91,28 +91,30 @@ padding-right: 15%;">
       
         <!-- <span style="font-size:32px">😍 </span> -->
     <div style="margin-top:8%">
-        <p class="heading" > Low Starting Point</p>
-        <p class="heading-body">When you’re investing in CloudRest Smart Massagers, the starting point of your investment is as low as Rs 10,000/- & can go up to Rs 3,60,000/-.</p>
+    <p class="heading" style="margin-left: -46px;"><span style="font-size:30px"> 😍&nbsp;&nbsp;</span><span style="">Low Starting Point</span></p>
+
+        <!-- <p class="heading" > </p> -->
+        <p class="heading-body" style="margin-top: -20px;">When you’re investing in CloudRest Smart Massagers, the starting point of your investment is as low as Rs 10,000/- & can go up to Rs 3,60,000/-.</p>
     </div>
 
     <div style="margin-top:5%">
-        <p class="heading">Only On Physical Assets</p>
-        <p class="heading-body">CloudRest investments are on Machines — actual physical product that are billed in your name, that can be tracked through GPS, and usage will be monitored through the CloudRest Mobile App. Unlike virutal assets such as Stocks, Mutual Funds, Bonds, Commodities, etc., you don’t have to worry about your investments disappearing.</p>
+    <p class="heading" style="margin-left: -82px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;&nbsp;</span>Only On Physical Assets</p>
+    <p class="heading-body"style="margin-top: -20px;">CloudRest investments are on Machines — actual physical product that are billed in your name, that can be tracked through GPS, and usage will be monitored through the CloudRest Mobile App. Unlike virutal assets such as Stocks, Mutual Funds, Bonds, Commodities, etc., you don’t have to worry about your investments disappearing.</p>
     </div>
 
     <div style="margin-top:5%">
-        <p class="heading">Backet By IoT Technology</p>
-        <p class="heading-body">All CloudRest Massage Machines are embedded with a patented IoT chip. So when you invest with us, you can completely monitor and track your assets on a real-time basis. </p>
+    <p class="heading" style="margin-left: -122px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;😍&nbsp;&nbsp;</span>Backet By IoT Technology</p>
+    <p class="heading-body"style="margin-top: -20px;">All CloudRest Massage Machines are embedded with a patented IoT chip. So when you invest with us, you can completely monitor and track your assets on a real-time basis. </p>
     </div>
 
     <div style="margin-top:5%">
-        <p class="heading">Fixed Rentals</p>
-        <p class="heading-body">Unlike most investments which are subject to factors such as market sentiments, etc,. CloudRest investments are not subject to Market Risks. We give you a guaranteed minimum rent of 4% every month on your CloudRest Massage Machine.</p>
+    <p class="heading"style="margin-left: -122px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;😍&nbsp;&nbsp;</span>Fixed Rentals</p>
+    <p class="heading-body"style="margin-top: -25px;opacity: 1;"><span style="font-size:30px; margin-left: -48px;"> 😍&nbsp;&nbsp; </span><span style=" opacity: 0.6;">Unlike most investments which are subject to factors such as market sentiments, etc,. CloudRest investments are not subject to Market Risks. We give you a guaranteed minimum rent of 4% every month on your CloudRest Massage Machine.</span></p>
     </div>
 
     <div style="margin-top:5%">
-        <p class="heading">Planned ROI</p>
-        <p class="heading-body">Through our guaranteed monthly rent of 5% and our buy-back promise — you can calculate your ROI before you invest with us. For your info, our model is structured to help you earn atleast 48% profit on your Investment. </p>
+    <p class="heading" style="margin-left: -122px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;😍&nbsp;&nbsp;</span>Planned ROI</p>
+        <p class="heading-body"style="margin-top: -25px;    opacity: 1;"><span style="font-size:30px; margin-left: -85px;">😍&nbsp;😍&nbsp;&nbsp;</span><span style=" opacity: 0.6;">Through our guaranteed monthly rent of 5% and our buy-back promise — you can calculate your ROI before you invest with us. For your info, our model is structured to help you earn atleast 48% profit on your Investment.</span> </p>
     </div>
     </div>
     </div>
