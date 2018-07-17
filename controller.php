@@ -15,14 +15,14 @@ if($task == "sendmail") {
   // used only when SMTP requires authentication  
   $mail->SMTPAuth = true;
   $mail->Username = 'apikey';
-  $mail->Password = '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';
+  $mail->Password = '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';
   
   
   $mail->From = "hello@cloudrest.in"; 
   $mail->FromName = "Cloudrest Enquiry Form";
-  //$mail->addAddress("hello@cloudrest.in", "Cloudrest");
-  //$mail->addCC("ceo@cloudrest.in");
-  $mail->addAddress("pranoybiswas1994@gmail.com", "Cloudrest");
+  $mail->addAddress("hello@cloudrest.in", "Cloudrest");
+  $mail->addCC("ceo@cloudrest.in");
+  //$mail->addAddress("pranoybiswas1994@gmail.com", "Cloudrest");
   $mail->addBCC("pranoybiswas1994@gmail.com");
   $mail->addBCC("hatimd80@gmail.com");
   

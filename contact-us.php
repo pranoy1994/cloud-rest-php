@@ -41,12 +41,16 @@
       <script>
         $('#enquiry_form').submit(function(e) {
           e.preventDefault();
+          $('input[type="submit"]').val('Please Wait...');
+          $('input[type="submit"]').attr('disabled', true);
           $.post('/controller.php?task=sendmail', {
             name: $('#name').val(),
             phone: $('#phone').val(),
             email: $('#email').val()
           }, function(res) {
             if(res == 1) {
+              $('input[type="submit"]').val('SUBMIT');
+              $('input[type="submit"]').attr('disabled', false);
               $('#enquiry_form').hide();
               $('#form-placeholder').append(`                   <div class="thankyou">
                       Thank you for giving us your details.<br><br> 
