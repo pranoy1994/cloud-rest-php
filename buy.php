@@ -129,9 +129,8 @@
                 <p class="inside-header">Disclaimer</p>
                 <ol class="disclamer-content" style=" padding-left: 30%;padding-right:17%">
                     <li><p>Fill up this form on the right. Give us your details & our executive will get in touch with you.  </p></li>
-                    <li><p>We will send you a payment link — even if you wish to buy it on EMI. Once you make a payment we will deliver your order. 
-
-         </p></li>
+                    <li><p> Visit our Lounge, try our Smart Massage Chairs, and we will help you with the buying process.</p></li>
+                   git  -->
                 </ol>
             </div>
 
