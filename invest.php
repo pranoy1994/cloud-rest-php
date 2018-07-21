@@ -114,7 +114,7 @@ padding-right: 15%;">
 
     <div style="margin-top:5%">
     <p class="heading" style="margin-left: -122px;"><span style="font-size:30px"> 😍&nbsp;😍&nbsp;😍&nbsp;&nbsp;</span>Planned ROI</p>
-        <p class="heading-body"style="margin-top: -25px;    opacity: 1;"><span style="font-size:30px; margin-left: -85px;">😍&nbsp;😍&nbsp;&nbsp;</span><span style=" opacity: 0.6;">Through our guaranteed monthly rent of 5% and our buy-back promise — you can calculate your ROI before you invest with us. For your info, our model is structured to help you earn atleast 48% profit on your Investment.</span> </p>
+        <p class="heading-body"style="margin-top: -25px;    opacity: 1;"><span style="font-size:30px; margin-left: -85px;">😍&nbsp;😍&nbsp;&nbsp;</span><span style=" opacity: 0.6;">Through our guaranteed monthly rent of 4% and our buy-back promise — you can calculate your ROI before you invest with us. For your info, our model is structured to help you earn atleast 48% profit on your Investment.</span> </p>
     </div>
     </div>
     </div>
@@ -155,7 +155,7 @@ padding: 0%;">
   </div>
   <div style="margin-top:5%">
     <p class="heading"><Span style="color: #4c9142; font-size:32px; ">5.&nbsp;</span>After 12-month Lease</p>
-    <p class="heading-body" style= "padding-right: 25%;">At the end of the 12-month Lease agreement, we give you two option — etiher Renew the lease and continue enjoying monthly rental income or opt out and we will buy-back the CloudRest Smart Massage Machines you’ve invested in after deducting a nominal depreciation rate. </p>
+    <p class="heading-body" style= "padding-right: 25%;">At the end of the 12-month Lease agreement, you will have two option — etiher Renew the lease and continue enjoying monthly rental income or opt out and we will buy-back the CloudRest Smart Massage Machines you’ve invested in after deducting a nominal depreciation rate. </p>
   </div>
 
    

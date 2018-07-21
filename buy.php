@@ -129,9 +129,7 @@
                 <p class="inside-header">Disclaimer</p>
                 <ol class="disclamer-content" style=" padding-left: 30%;padding-right:17%">
                     <li><p>Fill up this form on the right. Give us your details & our executive will get in touch with you.  </p></li>
-                    <li><p>We will send you a payment link — even if you wish to buy it on EMI. Once you make a payment we will deliver your order. 
-
-         </p></li>
+                    <li><p> Visit our Lounge, try our Smart Massage Chairs, and we will help you with the buying process.</p></li>            
                 </ol>
             </div>
 
@@ -166,8 +164,6 @@
   </div>
       <script>
         $('#enquiry_form').submit(function(e) {
-          $('input[type="submit"]').val('Please Wait...');
-          $('input[type="submit"]').attr('disabled', true);
           e.preventDefault();
           $.post('/controller.php?task=sendmail', {
             name: $('#name').val(),
@@ -175,8 +171,6 @@
             email: $('#email').val()
           }, function(res) {
             if(res == 1) {
-              $('input[type="submit"]').val('SUBMIT');
-              $('input[type="submit"]').attr('disabled', false);
               $('#enquiry_form').hide();
               $('#form-placeholder').append(`                   <div class="thankyou">
                       Thank you for giving us your details.<br><br> 
