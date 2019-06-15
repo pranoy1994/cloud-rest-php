@@ -9,7 +9,7 @@
         <button class="headerButton" id="schoolName" onclick="location.href='/buy.php'">
           <div class="image-text-holder">
             <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/apple/129/seat_1f4ba.png" style="width: 25%;height: 2%;"/>
-            <p style="margin-top: 0%;">&nbspBUY</p> 
+            <p style="margin-top: 0%;">&nbspBuy</p> 
           </div>
         </button>
         <button class="headerButton" id="schoolName" onclick="location.href='/invest.php'">          
